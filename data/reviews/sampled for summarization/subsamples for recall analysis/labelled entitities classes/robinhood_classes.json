@@ -1,0 +1,48 @@
+{
+    "UI navigation":[
+        "beginner friendly",
+        "charts and articles",
+        "user interface",
+        "user interface and information content",
+        "unexplained investment related concepts",
+        "friendly",
+        "informative interface",
+        "more clarification on Credit",
+        "friendly approach to stock market",
+        "detailed information of history transactions",
+        "easy trading experience",
+        "suggestion for sorting stocks feature for customizability"
+    ],
+    "customer support": [
+        "customer support",
+        "request for customer support"
+    ],
+    "market manipulation via user access restrictions":[
+        "user control during volatile stock market"
+    ],
+    "profitability":[
+        "earn profit",
+        "interest rate",
+        "declined interest rate after advertisement",
+        "low margin rates"
+    ],
+    "pricing":[
+        "easy transaction of shares or cryptos without fees",
+        "commission free trades"
+    ],
+    "txns related issues (including banking and stocks)":[
+        "delayed transaction execution (manipulation)",
+    ],
+    "account verification and approval":[
+        "application approval"
+    ],
+    "crypto trading":[
+        "easy transaction of shares or cryptos without fees"
+    ],
+    "privacy concerns":[
+        "privacy concern regarding sell of user data"
+    ],
+    "ease with tax reports":[
+        "history information helps to generate tax related reports"
+    ]
+}

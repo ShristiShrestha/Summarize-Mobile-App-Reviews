@@ -1,0 +1,86 @@
+{
+    "fake accounts":[
+        "fake accounts and limited results",
+        "fake profiles",
+        "fake accounts or unresponsive accounts"
+    ],
+    "account ban and appeal process": [
+        "account banned",
+        "account banned/blocked without specific reasons",
+        "account ban appeal process",
+        "bot accounts",
+        "automatic account deletion under suspicion of fake accounts",
+        "permanent ban with out proof",
+        "no way to appeal or reverse the ban",
+        "profile photo flagged and taken down within 10 seconds of upload"
+    ],
+    "pricing": [
+        "expensive cost",
+        "expensive subscription",
+        "pay for spotlight feature",
+        "expensive price to sign up"
+    ],
+    "free content access": [
+        "advanced filters taken away for free users",
+        "limited filter features",
+        "limited features for free members",
+        "beeline for free users",
+        "limited swipes for free users",
+        "limited likes",
+        "paytoplay solution to get unlimited swipes",
+        "limited likes unless pay for subscription",
+        "requests for unlimited likes, swipes and messaging features for free users",
+        "requests for a free trial"
+    ],
+    "account/profile verification process": [
+        "age verification process",
+        "profile verification suggestions",
+        "issue with profile picture verification when using BFF feature"
+    ],
+    "profile visibility and match success rate": [
+        "profile visibility and choice filters",
+        "locationbased profile visibility",
+        "irrelevant matches",
+        "beeline for free users",
+        "overwhelming likes when sign up",
+        "likes that stop for premium users",
+        "lowest matchconversation ratio",
+        "Bumble BFF features works for heterosexual people",
+        "Bumble BFF feature not working for cisidentifying queer people",
+        "no matches to the subscribed users",
+        "swipe limit not working out in matching people for unsubscribed users",
+        "conversation starter prompts (not working out)",
+        "success with spotlight in getting likes",
+        "feeling of actual connections",
+        "less match compared to the competitor apps",
+        "algorithmic manipulation to tempt into buying subscriptions",
+        "algorithmic manipulation to trick users into buying boosts feature",
+        "no swipes for users with slightly less appealing (based on social norms)",
+        "no message response during Spotlight period",
+        "lowered profile visibility on too many swipes to the left",
+        "expiring matches causes missed matches with people"
+
+    ],
+    "customer support": [
+        "customer support", 
+        "no customer support",
+        "appreciate the sympathetic response from Bumble on reporting abuser on the app"
+    ],
+    "UI navigation and feature requests": [
+        "people who liked you feature not accessible to life time subscribers",
+        "request to view all matches",
+        "request to have more detailed choices to profile filter",
+        "option to prioritize connections by distance (in reverse order)",
+        "more choices for personality traits",
+        "unable to view who liked me feature",
+        "payment method options unavailable to upgrade",
+        "annoyed with popup interface"
+    ],
+    "unauthorized charges": [
+        "automatic subscription renewal and no means for refund"
+    ],
+    "women-centric approach": [
+        "match time expiry",
+        "no way to start conversation for men",
+    ]
+}

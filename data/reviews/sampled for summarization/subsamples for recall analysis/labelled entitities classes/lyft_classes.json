@@ -1,0 +1,67 @@
+{
+    "driver behavior and communications": [
+        "driver stealing behavior",
+        "helpful driver reconnected and dropped safely",
+        "professional drivers",
+        "clean vehicle",
+        "personable driver"
+    ],
+    "ride cancellations": [
+        "ride cancellation",
+        "ride cancellation and request for full refund"
+    ],
+    "price surge": [
+        "longer wait and ride at higher charge",
+        "high price",
+        "price surge"
+    ],
+    "customer support": [
+        "customer support"
+    ],
+    "(scheduled ride) pick-up to drop-off experience":[
+        "advance schedule pickup issues",
+        "longer wait and ride at higher charge",
+        "no credit for bad experience",
+        "long wait time",
+        "wait and save feature not worth it",
+        "long wait time, forcing to cancel rides"
+    ],
+    "account verification and access issues": [
+        "account access unusable due to verification issue",
+        "bank verification issues"
+    ],
+    "personal safety concerns": [
+        "dropped in middle of night",
+        "light rail and walking path feature through airport route"
+    ],
+    "rating system for drivers and riders": [
+        "feedback system to the driver"
+    ],
+    "lost item retrieval": [
+        "automatic charge for lost item return"
+    ],
+    "unauthorized (overcharged) charges": [
+        "overcharged issues",
+        "double charging on pending charges"
+    ],
+    "false accusations and policy": [
+        "support system for drivers in case of false accusations",
+        "false safety warning",
+        "information on policy about false accusation and health concerns lacking"
+    ],
+    "in-app issues": [
+        "technical glitch",
+        "pickup location in map issue"
+    ],
+    "ride availability and assignments": [
+        "driver rerouting",
+        "driver availability"
+    ],
+    "refund and payment issues": [
+        "payment method issue",
+        "delayed refund"
+    ],
+    "accessibility for disable people": [
+        "ride cancellation on disable person"
+    ]
+}

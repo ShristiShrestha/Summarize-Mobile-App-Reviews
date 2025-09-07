@@ -1,0 +1,53 @@
+{
+    "match algorithm and success": [
+        "no matches for free users",
+        "location based matching",
+        "hidden cost and monetization",
+        "match success",
+        "successful connections"
+    ],
+    "fake accounts": [
+        "fake profiles",
+        "scam accounts",
+        "shadow ban",
+        "fake accounts"
+    ],
+    "account ban and appeal": [
+        "account ban",
+        "appeal process for account ban"
+    ],
+    "pricing and fees": [
+        "expensive fee",
+        "expensive features"
+    ],
+    "free content": [
+        "content locked behind subscriptions"
+    ],
+    "customer support": [
+        "customer support"
+    ],
+    "data privacy concerns": [
+        "data security concerns"
+    ],
+    "UI navigation and feature requests": [
+        "interface glitch",
+        "FAQ section",
+        "interface issues",
+        "unwanted tags added in profile in the passion labelling section",
+        "name change in profile require new account",
+        "sign up requires phone making new account creation difficult"
+    ],
+    "misleading alerts": [
+        "misleading notifications"
+    ],
+    "personal safety concerns": [
+        "personal safety concerns",
+        "personal information: concerned about credit card information"
+    ],
+    "incorrect purchase": [
+        "incorrect boost feature purchase"
+    ],
+    "payment and refund issues": [
+        "refund post account ban"
+    ]
+}

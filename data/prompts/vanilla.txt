@@ -1,0 +1,2 @@
+Instructions:
+You will summarize the app store reviews (delimited with XML tags) for {{app}} app in {{summary_length}} words.

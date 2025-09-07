@@ -1,0 +1,27 @@
+[
+  {
+    "Iteration turn": 1,
+    "Missing_Entities": "photo verification, limited swipes, 24-hour match feature, women's empowerment, safety features",
+    "Denser_Summary": "Bumble is a dating app that prioritizes women's empowerment and safety. It has a photo verification feature to ensure users are genuine, but some users have reported issues with the process. The app limits the number of swipes per day, which can be frustrating for users who want to explore more profiles. The 24-hour match feature can also be limiting, as it puts pressure on users to initiate conversations quickly. Despite these limitations, Bumble has been successful in creating a safe and respectful environment for users to connect with each other. However, some users have reported issues with the app's customer service and the lack of transparency in their moderation policies."
+  },
+  {
+    "Iteration turn": 2,
+    "Missing_Entities": "premium features, pricing, user interface, LGBTQ+ issues, transphobia",
+    "Denser_Summary": "Bumble's premium features, such as unlimited swipes and the ability to see who likes you, come at a cost. The pricing has been criticized for being too high, with some users feeling that it's not worth the investment. The user interface has also been criticized for being cluttered and difficult to navigate. Additionally, some users have reported issues with the app's handling of LGBTQ+ issues, including transphobia and the lack of options for non-binary users. Despite these issues, Bumble has made efforts to improve its inclusivity and safety features."
+  },
+  {
+    "Iteration turn": 3,
+    "Missing_Entities": "algorithm, fake profiles, harassment, reporting system",
+    "Denser_Summary": "Bumble's algorithm has been criticized for prioritizing certain profiles over others, leading to a lack of diversity in matches. Fake profiles are also a problem on the app, with some users reporting that they've been matched with bots or scammers. Harassment is another issue, with some users reporting that they've been subjected to abusive messages or behavior. The reporting system has also been criticized for being ineffective, with some users reporting that their reports have been ignored or dismissed."
+  },
+  {
+    "Iteration turn": 4,
+    "Missing_Entities": "customer service, refunds, subscription issues",
+    "Denser_Summary": "Bumble's customer service has been criticized for being unresponsive and unhelpful. Some users have reported issues with refunds, including being charged for subscriptions they didn't want or being unable to cancel their subscription. Subscription issues are also a problem, with some users reporting that they've been charged for features they didn't want or being unable to access premium features despite paying for them."
+  },
+  {
+    "Iteration turn": 5,
+    "Missing_Entities": "location-based issues, distance settings, app performance",
+    "Denser_Summary": "Bumble's location-based features have been criticized for being inaccurate or unreliable. Some users have reported issues with distance settings, including being shown profiles that are outside of their specified range. App performance has also been a problem, with some users reporting that the app is slow or crashes frequently. Despite these issues, Bumble has made efforts to improve its location-based features and app performance."
+  }
+]

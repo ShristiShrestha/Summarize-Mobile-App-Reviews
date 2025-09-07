@@ -1,0 +1,27 @@
+Instructions:
+You will generate increasingly concise, entity-dense summaries of the reviews of the {{app}} app.
+Repeat the following 2 steps {{iterations}} times.
+Step 1:	Identify {{num_missing_entities}} informative entities from the reviews which are missing from the previously generated summary.
+Step 2:	Write a new, denser summary of identical length which covers every entity and detail from the previous summary plus the missing entities.
+Note: An entity is a user-defined issue in the reviews that is perceived to harm or support their goals. This includes the functional or non-functional features of the app.
+
+A missing entity is:
+- relevant to the app's operation,
+- specific yet concise (5 words or fewer),
+- novel (not in the previous summary),
+- faithful (present in the reviews),
+- anywhere (can be located anywhere in the reviews).
+
+Guidelines:
+- The first summary should be long (4-5 sentences, {{summary_length}} words) yet highly non-specific, containing little information beyond the entities marked as missing.
+- Use overly verbose language and fillers (e.g., "this app discusses") to reach {{summary_length}} words.
+- Make every word count: rewrite the previous summary to improve flow and make space for additional entities.
+- Make space with fusion, compression, and removal of uninformative phrases like "the users discuss".
+- The summaries should become highly dense and concise yet self-contained, i.e., easily understood without the reviews.
+- Missing entities can appear anywhere in the reviews. NEVER drop entities from the previous summary.
+- If space cannot be made, add fewer new entities. Remember, use the exact same number of words for each summary.
+- Avoid apps' names other than {{app}} in summaries.
+- Avoid personal and location specific information like name, place, URLs, and emails
+
+Remember, use the exact number ({{summary_length}}) of words for each summary.
+ONLY Answer in JSON. The JSON should be a list (length {{iterations}}) of dictionaries whose keys are ""Iteration turn"", ""Missing_Entities"", ""Denser_Summary"".

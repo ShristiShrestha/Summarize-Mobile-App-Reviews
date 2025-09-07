@@ -1,0 +1,52 @@
+{
+    "investment strategies and processes":[
+        "spare change and fixed contributions",
+        "automatic investment diversification",
+        "stock selection options"
+    ],
+    "UI navigation and feature requests": [
+        "simplified investment process",
+        "easy transactions",
+        "beginner friendly",
+        "dark mode feature request",
+        "suggestions for a widget showing the amount user have",
+        "earning information",
+        "market information",
+        "easy setup  process",
+        "popup interface"
+    ],
+    "customer support": ["customer support"],
+    "profitability or earnings": [
+        "earn profit"
+    ],
+    "txns related issues (including banking and stocks)": [
+        "banking related transaction issue",
+        "transaction cancellation issues",
+        "suggestion for deposit cash into ATMs without needing primary checking account outside of Acorn",
+        "withdraw money from stocks"
+    ],
+    "pricing & fees": [
+        "minimum fee transactions",
+        "high subscription fees",
+        "unjustified high monthly fees",
+        "high trading fees"
+    ],
+    "rewards and referrals": [
+        "rewards delivered as promised",
+        "rewards not delivered as promised"
+    ],
+    "account access and closure": [
+        "account lock",
+        "close account and refund remaining balance"
+    ],
+    "subscription cancellation process": [
+        "difficult to cancel",
+        "automatic monthly charges",
+        "charged despite cancellation"
+    ],
+    "third party connectivity/support": [
+        "Plaid support"
+    ],
+    "privacy concerns": ["personal data security concerns"],
+    "tax related concerns": ["file taxes"]
+}

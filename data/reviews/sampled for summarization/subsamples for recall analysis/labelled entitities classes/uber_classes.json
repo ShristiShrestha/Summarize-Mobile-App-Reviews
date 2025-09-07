@@ -1,0 +1,61 @@
+{
+    "customer support": [
+        "customer support"
+    ],
+    "driver behavior": [
+        "driver skills and personable attitude",
+        "clean vehicle",
+        "personable driver attitude",
+        "late drivers",
+        "premium users ignored by driver",
+        "unprofessional driver"
+    ],
+    "price surge": [
+        "high price",
+        "price manipulation"
+    ],
+    "account access": [
+        "account lock and fund transfer",
+        "account access issues"
+    ],
+    "payment issues": [
+        "redeem gift cards issues",
+        "cash balance redeem issue",
+        "refund issues"
+    ],
+    "unauthorized charges (double charging)": [
+        "ride cancellation and double pay on rider's end",
+        "unauthorized charges"
+    ],
+    "UI navigations and feature requests":[
+        "request for an option to select maximum distance willing to drive for the drivers",
+        "schedule ride information in popup screen visibility issue",
+        "request to add Apple Watch and Samsung galaxy watch app feature"
+    ],
+    "misleading alerts": [
+        "push notification for ads"
+    ],
+    "ride cancellations":[
+        "ride cancellation and double pay on rider's end"
+    ],
+    "safety concerns": [
+        "personal safety concerns",
+        "safe navigation"
+    ],
+    "(scheduled ride) pick-up to drop-off experience": [
+        "smooth ride experience",
+        "timed ride issue",
+        "schedule ride issues (unexpected denied)",
+        "ride pickup issues",
+        "driver destination drop off communication issue"
+    ],
+    "income generation": [
+        "driver earnings"
+    ],
+    "lost item retrieval": [
+        "lost item retrieval issue"
+    ],
+    "rating system for drivers and riders": [
+        "drivers rating riders unjustified"
+    ]
+}
